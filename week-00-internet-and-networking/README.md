@@ -35,7 +35,7 @@ Replace `task-1-chatgpt.png` with your actual screenshot file name.
 ## What I Learned (2–3 lines)
 
 Add your answer here...
-
+From this activity, I learned that a network protocol is a set of rules that allows computers and other devices to communicate with each other correctly. I also learned that using real-life examples, such as two people following the rules of a conversation, makes technical concepts much easier to understand. In addition
 ---
 
 # 🌐 Task 2: Internet and Networking
@@ -60,7 +60,12 @@ Write a short explanation (**100–150 words**) that includes:
 ## Answer
 
 Add your answer here...
+When someone from anywhere in the world visits the EpicReads website hosted in Finland, their browser sends a request over the internet. The information is divided into smaller pieces using packet switching, allowing it to travel efficiently through different routes before being reassembled at its destination. 
 
+The website's IP address helps ensure the request reaches the correct server. 
+TCP/IP manages the communication by making sure all the data arrives correctly and in the right order. 
+The browser and the website communicate using HTTP or HTTPS. While HTTP transfers web pages, HTTPS adds encryption to keep personal information, such as passwords and payment details, safe. 
+Together, these technologies make it possible for people around the world to access EpicReads quickly, reliably, and securely.
 ---
 
 # 🏗️ Task 3: Application Architecture & Stack
@@ -102,18 +107,24 @@ Replace `task-3-diagram.png` with your actual diagram file name.
 
 ### Frontend
 
-* Add your answer here...
-* Add your answer here...
+* HTML,
+* CSS,
+* JavaScript,
+* React,
+* Angular
 
 ### Backend
 
-* Add your answer here...
-* Add your answer here...
+* Node.js,
+* Express.js,
+* Python (Django or Flask),
+* Java (Spring Boot)
 
 ### Database
 
-* Add your answer here...
-* Add your answer here...
+* MySQL,
+* PostgreSQL, Microsoft SQL Server,
+* MongoDB
 
 ---
 
