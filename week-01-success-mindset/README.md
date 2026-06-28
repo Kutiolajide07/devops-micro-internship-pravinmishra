@@ -33,9 +33,7 @@ You will reuse this in later weeks. So do it properly once.
 
 ## Answer
 
-Add your answer here...
-
----
+One belief I hold that many people around me disagree with is that changing careers in your forties (being over 40year of age) is too late. Many people believe that once you have reached a certain age, you should settle into one profession, but I disagree. After earning an MBA and an MSc in Data Science, I chose to build a career in cloud security and DevOps because I believe continuous learning creates new opportunities regardless of age. I have invested in certifications such as Azure and cybersecurity training while working in IT support, even though some people think experience alone is enough. I believe those who keep learning, adapt to new technologies, and remain disciplined will achieve greater long-term success than those who stop developing their skills simply because they think they are too old or already qualified
 
 # Assignment 2. What are the top 3 objective truths you discovered through experimentation and results?
 
@@ -55,11 +53,11 @@ Write each truth in this format:
 
 ### Truth
 
-Add your answer here...
+Consistent learning produces measurable career opportunities, even without immediately changing jobs.
 
 ### Evidence from my life
 
-Add your answer here...
+With my MSc in Data Science, MBA, PGD and under graduate certifications I could not apply for jobs as it felt like I was boxed to a tight corner, not until I focussed my learning towards cloud security studying Azure, cybersecurity, and DevOps certifications. As my knowledge grew, I became qualified to apply for more technical and security-focused roles that I previously could not pursue, though I have not landed my desired job role but I belive it is a matter of time when my hard work pays off, and this this has demonstrated that continuous learning directly expanded my career options.
 
 ---
 
@@ -67,11 +65,11 @@ Add your answer here...
 
 ### Truth
 
-Add your answer here...
+Practical experience reinforces knowledge more effectively than studying theory alone
 
 ### Evidence from my life
 
-Add your answer here...
+When preparing for Microsoft Azure and cybersecurity certifications, I found that simply reading the material was not enough. By using Microsoft labs, PowerShell, Microsoft 365 administration, and troubleshooting real workplace issues, I understood the concepts more deeply and retained them better. Applying what I learned consistently improved both my confidence and technical ability
 
 ---
 
@@ -79,11 +77,11 @@ Add your answer here...
 
 ### Truth
 
-Add your answer here...
+Persistence leads to progress, even when results are not immediate.
 
 ### Evidence from my life
 
-Add your answer here...
+Transitioning into cloud security has required significant effort, including studying outside work, earning certifications, and applying for competitive roles. Although the transition has taken time, every certification completed, interview attended, and technical skill gained has moved me closer to my goal. The steady improvement in my knowledge and confidence is evidence that consistent effort produces measurable progress over time
 
 ---
 
