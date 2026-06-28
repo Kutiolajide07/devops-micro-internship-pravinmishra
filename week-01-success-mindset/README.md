@@ -133,13 +133,32 @@ Include this line:
 
 ## Your Article
 
-Add your answer here...
+# How Consistency Helped Olajide Kuti Build a Career in Cloud Security
+
+In an industry often defined by rapid technological change, Olajide Kuti's career demonstrated that long-term consistency remained one of the most valuable competitive advantages.
+
+Just a few years earlier, Kuti had been working in IT support while investing evenings and weekends in learning cloud computing, cybersecurity, and DevOps. Instead of chasing every new trend, he followed a structured roadmap that combined formal education, professional certifications, and practical project work. Every new concept was reinforced by building something tangible, documenting the process, and sharing lessons learned.
+
+That disciplined approach gradually transformed his professional profile. His GitHub portfolio became a showcase of Azure deployments, Microsoft Sentinel implementations, Infrastructure as Code projects, automation scripts, security monitoring dashboards, and cloud governance solutions. Rather than presenting theoretical knowledge, his portfolio demonstrated practical problem-solving and engineering capability.
+
+Olajide also established a respected technical blog where he published articles explaining Microsoft Azure security, Microsoft Defender, Identity and Access Management, Zero Trust, DevSecOps, and cloud best practices. His writing reflected a commitment to making complex topics accessible, particularly for professionals transitioning into cloud security.
+
+His growing expertise led to opportunities as a Cloud Security Engineer, where he contributed to enterprise cloud migration projects, strengthened identity security controls, improved security monitoring, and supported incident response initiatives. Colleagues valued his ability to communicate clearly with both technical and non-technical stakeholders, making him an effective bridge between engineering teams and business leaders.
+
+Outside the workplace, he invested heavily in community development. He mentored aspiring cybersecurity professionals, reviewed CVs, shared interview preparation resources, and created open-source projects that allowed others to gain practical experience. His willingness to share knowledge earned him recognition as both a technical professional and an educator.
+
+Throughout his journey, he continued expanding his expertise in Azure security, Microsoft Defender, Microsoft Sentinel, Infrastructure as Code, automation, and cloud governance while maintaining a focus on practical implementation rather than collecting credentials alone.
+
+Outside the workplace, he remained active within his local community, where he contributed to men's development initiatives and encouraged meaningful conversations around leadership, family, personal growth, and professional excellence.
+
+Looking back, Ola's career illustrates a lesson that resonates far beyond technology: sustainable success is rarely built through dramatic breakthroughs. More often, it is the result of small, disciplined actions repeated consistently over time. By combining continuous learning with practical execution and community contribution, he built a career defined by credibility, technical excellence, and meaningful impact.
+
 
 ### Public Link
 
 Paste your link here:
 
-`__________________________`
+https://www.olajidekuti.com/vision
 
 ---
 
