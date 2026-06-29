@@ -190,8 +190,11 @@ If Yes:
 
 ## Answer
 
-Add your answer here...
-
+* fear
+* guilt
+* shame
+* stress
+* regret
 ---
 
 # Assignment 5. What are 10 non-fiction books you plan to read in the next 1 year?
@@ -216,18 +219,16 @@ Choose books that improve:
 
 ## Book List
 
-1. Add your answer here...
-2. Add your answer here...
-3. Add your answer here...
-4. Add your answer here...
-5. Add your answer here...
-6. Add your answer here...
-7. Add your answer here...
-8. Add your answer here...
-9. Add your answer here...
-10. Add your answer here...
-
----
+1. Atomic Habits
+2. Deep Work
+3. Mindset
+4. Never Split the Difference
+5. The Psychology of Money
+6. Outlive
+7. So Good They Can't Ignore You
+8. The 7 Habits of Highly Effective People
+9. Thinking, Fast and Slow
+10. The Almanack of Naval Ravikant
 
 # Assignment 6. What are the things you will measure regularly in your life and career?
 
@@ -315,11 +316,11 @@ Add your answer here...
 
 #### When Will You Do DMI Work? (Days + Time)
 
-Add your answer here...
+Every Sundays, Mondays and Tuesdays between 5:00AM and 7:00 AM
 
 #### How Many Sessions Per Week?
 
-Add your answer here...
+6 Hours
 
 ---
 
@@ -327,30 +328,33 @@ Add your answer here...
 
 Examples:
 
-* Phone rules
+* Phone
 * Social media rules
 * Environment setup
 
 #### My Distraction Rules
 
-Add your answer here...
-
----
+Phones are kept in the kitchen over night to avoid distractions in the morning 
+Only 1 social medai account is to be maintained, no more intagram or X
+Cleaned room, well arranged to encourage positive ambience 
 
 # Reflection – Week 1
 
 ### Biggest insight I got about myself this week
 
-Add your answer here...
+How I could build a technical website to document my career trajectory, aspirations and showcase my skillset. This week reminded me that I learn best by building, not just studying. Renewing my Microsoft Azure Security Engineer Associate (AZ-500) certification was an important milestone, but what stood out even more was turning ideas into something tangible. I built and deployed my own website, connected it to a custom domain, created pages that reflect both my current experience and my long-term vision, and worked through unfamiliar technologies like Git, GitHub, Vercel, and DNS configuration.
+
+I also realised that consistency has become one of my greatest strengths. Instead of trying to achieve everything at once, I made steady progress by solving one challenge at a time. Each completed step gave me the confidence to tackle the next.
+
+The biggest insight I gained is that my growth comes from combining continuous learning with practical execution. I don't just want to earn certifications I want to build, document, share, and apply what I learn in ways that create value for others. That mindset is shaping not only my technical skills but also the kind of cloud security professional I aspire to become.
 
 ### My biggest weakness/loop I noticed
 
-Add your answer here...
+As a father of 3, children sometimes create distractions and this creates challenge managing family time among other commitments
 
 ### One system I will implement from this week (exact habit + time)
 
-Add your answer here...
-
+Every weekday from 5:00 AM to 7:00 AM, I will spend 120 minutes on focused cloud security development either studying, building a hands-on project, writing a technical blog post, or documenting what I've learned. before starting each day, I will record one key takeaway and commit any completed work to GitHub
 ### LinkedIn Post
 
 Paste your LinkedIn post link here:
