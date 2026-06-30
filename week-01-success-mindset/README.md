@@ -255,16 +255,17 @@ List topics only. No need to share numbers.
 
 ## My Metrics
 
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
+* Learning hours/week
+* Deep work sessions/week
+* Certifications completed
+* Labs completed
+* GitHub commits
+* Projects shipped / documented
+* Technical blog posts
+* LinkedIn posts
+* Non fictional Books finished
+* Networking conversations
+* CV improvements
 
 ---
 
@@ -290,9 +291,7 @@ Examples:
 
 Answer:
 
-Add your answer here...
-
----
+Yes 
 
 ## Step 2: Your 5-Month Routine + Focus Blocks
 
@@ -310,19 +309,50 @@ Example:
 
 Add your answer here...
 
----
+Monday
+05:00 – 07:00 - (Deep Work) on DevOps Fundamentals
+19:00 – 20:00 - Exercise / Walk
+Focus Blocks - • Continue DevOps course • Take notes • Complete lab exercises • Push work to GitHub Linux • Git • Bash • Docker • Networking
 
-### Focus Blocks
+Tuesday
+05:00 – 07:00 - (Deep Work) Hands-on DevOps Lab
+19:00 – 20:00 - Exercise / Walk
+Focus Blocks - • Build a lab from scratch • Practise commands without notes • Troubleshoot issues • Document what you learned • Docker • Linux • GitHub • Azure
 
+Wednesday
+05:00 – 07:00 - (Deep Work) Infrastructure & Automation
+19:00 – 20:00 - Exercise / Walk
+Focus Blocks - • Terraform • Azure infrastructure • Infrastructure as Code • YAML • Azure DevOps Pipelines • One GitHub commit • One improvement to your portfolio
+
+Thursday
+05:00 – 07:00 - (Deep Work) Azure Security (AZ-500)
+19:00 – 20:00 - Exercise / Walk
+Focus Blocks - • Microsoft Learn module • One AZ-500 lab • Review weak topics
+
+Friday
+05:00 – 07:00 - (Deep Work) Microsoft Security Operation (SC 200)
+19:00 – 20:00 - Exercise / Walk
+Focus Block -  • Microsoft Sentinel • KQL • Incident Investigation • Defender XDR
+
+Saturday
+05:00 – 14:00 - (Deep Work) Microsoft Security Operation (SC 200)
+19:00 – 20:00 - Exercise / Walk
+Focus Block -  • DMI Class session Organise notes  • Practise anything you struggled with  • Commit work to GitHub • No additional heavy studying.
+
+Sunday
+05:00 – 07:00 - (Deep Work) project on Docker project, Azure deployment, Terraform deployment, CI/CD pipeline, Kubernetes practice
+19:00 – 20:00 - Exercise / Walk
+Focus Block - Concepts and labs
+
+**Weekly review 20:30 - 21.30 • Track the following • Learning hours • Labs completed • GitHub commits • Projects built • Wins • Challenges • Plan next week**
+ 
 #### When Will You Do DMI Work? (Days + Time)
 
-Every Sundays, Mondays and Tuesdays between 5:00AM and 7:00 AM
+Every Saturdays, Sundays, Mondays, Tuesdays and wednesday between 5:00AM and 7:00 AM
 
 #### How Many Sessions Per Week?
 
-6 Hours
-
----
+16 Hours
 
 ### Distraction Rules
 
@@ -335,8 +365,8 @@ Examples:
 #### My Distraction Rules
 
 Phones are kept in the kitchen over night to avoid distractions in the morning 
-Only 1 social medai account is to be maintained, no more intagram or X
-Cleaned room, well arranged to encourage positive ambience 
+Only 1 social medai account is to be maintained, Uninstalled X and instagram from mobile device
+Cleaned workspace, well arranged to encourage positive ambience 
 
 # Reflection – Week 1
 
@@ -366,7 +396,7 @@ Paste your LinkedIn post link here:
 ## 10. Proof of Work
 
 - LinkedIn Post URL: **ADD LINK HERE**  
-- Blog / Medium : **ADD LINK HERE**  
+- Blog / Medium : **www.olajidekuti.com**  
 
 ---
 
