@@ -33,7 +33,7 @@ You will reuse this in later weeks. So do it properly once.
 
 ## Answer
 
-One belief I hold that many people around me disagree with is that changing careers in your forties (being over 40year of age) is too late. Many people believe that once you have reached a certain age, you should settle into one profession, but I disagree. After earning an MBA and an MSc in Data Science, I chose to build a career in cloud security and DevOps because I believe continuous learning creates new opportunities regardless of age. I have invested in certifications such as Azure and cybersecurity training while working in IT support, even though some people think experience alone is enough. I believe those who keep learning, adapt to new technologies, and remain disciplined will achieve greater long-term success than those who stop developing their skills simply because they think they are too old or already qualified
+One belief I hold that many people around me disagree with is that changing careers in your forties (being over 40year of age) is too late. Many people believe that once you have reached a certain age, you should settle into one profession, but I disagree. After years in foraml education earning my first degree in no technical education, post graduate diploma, MBA and an MSc in Data Science, I chose to build a career in cloud security and DevOps because I believe continuous learning creates new opportunities regardless of age. I have invested in academic publications, certifications such as Azure and cybersecurity training while working in IT support, even though it feels like experience alone is enough. I believe those who keep learning, adapt to new technologies, and remain disciplined will achieve greater long-term success than those who stop developing their skills simply because they think they are too old or already qualified
 
 # Assignment 2. What are the top 3 objective truths you discovered through experimentation and results?
 
@@ -137,7 +137,7 @@ Include this line:
 
 In an industry often defined by rapid technological change, Olajide Kuti's career demonstrated that long-term consistency remained one of the most valuable competitive advantages.
 
-Just a few years earlier, Kuti had been working in IT support while investing evenings and weekends in learning cloud computing, cybersecurity, and DevOps. Instead of chasing every new trend, he followed a structured roadmap that combined formal education, professional certifications, and practical project work. Every new concept was reinforced by building something tangible, documenting the process, and sharing lessons learned.
+Just a few years earlier, Olajide had worked accross different industry including sales operations and IT support while investing evenings and weekends in learning cloud computing, cybersecurity, and DevOps. Instead of chasing every new trend, he followed a structured roadmap that combined formal education, professional certifications, and practical project work. Every new concept was reinforced by building something tangible, documenting the process, and sharing lessons learned.
 
 That disciplined approach gradually transformed his professional profile. His GitHub portfolio became a showcase of Azure deployments, Microsoft Sentinel implementations, Infrastructure as Code projects, automation scripts, security monitoring dashboards, and cloud governance solutions. Rather than presenting theoretical knowledge, his portfolio demonstrated practical problem-solving and engineering capability.
 
@@ -149,7 +149,7 @@ Outside the workplace, he invested heavily in community development. He mentored
 
 Throughout his journey, he continued expanding his expertise in Azure security, Microsoft Defender, Microsoft Sentinel, Infrastructure as Code, automation, and cloud governance while maintaining a focus on practical implementation rather than collecting credentials alone.
 
-Outside the workplace, he remained active within his local community, where he contributed to men's development initiatives and encouraged meaningful conversations around leadership, family, personal growth, and professional excellence.
+Outside the workplace, he remained active within his local community, where he contributed to men's development initiatives and encouraged meaningful conversations around leadership, family, finance, personal growth, and professional excellence.
 
 Looking back, Ola's career illustrates a lesson that resonates far beyond technology: sustainable success is rarely built through dramatic breakthroughs. More often, it is the result of small, disciplined actions repeated consistently over time. By combining continuous learning with practical execution and community contribution, he built a career defined by credibility, technical excellence, and meaningful impact.
 
@@ -310,38 +310,52 @@ Example:
 Add your answer here...
 
 Monday
+04:00 - 05:00 - Read non fictional book
 05:00 – 07:00 - (Deep Work) on DevOps Fundamentals
 19:00 – 20:00 - Exercise / Walk
+21:00 - 04:00 - Sleep
 Focus Blocks - • Continue DevOps course • Take notes • Complete lab exercises • Push work to GitHub Linux • Git • Bash • Docker • Networking
 
 Tuesday
+04:00 - 05:00 - Read non fictional book
 05:00 – 07:00 - (Deep Work) Hands-on DevOps Lab
 19:00 – 20:00 - Exercise / Walk
+21:00 - 04:00 - Sleep
 Focus Blocks - • Build a lab from scratch • Practise commands without notes • Troubleshoot issues • Document what you learned • Docker • Linux • GitHub • Azure
 
 Wednesday
+04:00 - 05:00 - Read non fictional book
 05:00 – 07:00 - (Deep Work) Infrastructure & Automation
 19:00 – 20:00 - Exercise / Walk
+21:00 - 04:00 - Sleep
 Focus Blocks - • Terraform • Azure infrastructure • Infrastructure as Code • YAML • Azure DevOps Pipelines • One GitHub commit • One improvement to your portfolio
 
 Thursday
+04:00 - 05:00 - Read non fictional book
 05:00 – 07:00 - (Deep Work) Azure Security (AZ-500)
 19:00 – 20:00 - Exercise / Walk
+21:00 - 04:00 - Sleep
 Focus Blocks - • Microsoft Learn module • One AZ-500 lab • Review weak topics
 
 Friday
+04:00 - 05:00 - Read non fictional book
 05:00 – 07:00 - (Deep Work) Microsoft Security Operation (SC 200)
 19:00 – 20:00 - Exercise / Walk
+21:00 - 04:00 - Sleep
 Focus Block -  • Microsoft Sentinel • KQL • Incident Investigation • Defender XDR
 
 Saturday
+04:00 - 05:00 - Read non fictional book
 05:00 – 14:00 - (Deep Work) Microsoft Security Operation (SC 200)
 19:00 – 20:00 - Exercise / Walk
+21:00 - 04:00 - Sleep
 Focus Block -  • DMI Class session Organise notes  • Practise anything you struggled with  • Commit work to GitHub • No additional heavy studying.
 
 Sunday
+04:00 - 05:00 - Read non fictional book
 05:00 – 07:00 - (Deep Work) project on Docker project, Azure deployment, Terraform deployment, CI/CD pipeline, Kubernetes practice
 19:00 – 20:00 - Exercise / Walk
+21:00 - 04:00 - Sleep
 Focus Block - Concepts and labs
 
 **Weekly review 20:30 - 21.30 • Track the following • Learning hours • Labs completed • GitHub commits • Projects built • Wins • Challenges • Plan next week**
@@ -396,7 +410,7 @@ Paste your LinkedIn post link here:
 ## 10. Proof of Work
 
 - LinkedIn Post URL: **ADD LINK HERE**  
-- Blog / Medium : **www.olajidekuti.com**  
+- Blog / Medium : **https://www.olajidekuti.com/vision**  
 
 ---
 
