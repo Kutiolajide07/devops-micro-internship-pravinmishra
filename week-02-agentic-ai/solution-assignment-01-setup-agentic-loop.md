@@ -85,7 +85,7 @@ https://github.com/Kutiolajide07/Ultimate-Agentic-DevOps-with-Claude-Code
 
 - [ Done] Claude Code CLI installed successfully
 - [Done ] Claude Code authenticated successfully
-- [yes ] Repository forked successfully
+- [Done ] Repository forked successfully
 - [ Done] Repository cloned and opened in VS Code
 - [ Done] All required screenshots added
 - [ Done] GitHub repository URL provided
