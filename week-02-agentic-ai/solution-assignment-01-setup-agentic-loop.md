@@ -76,19 +76,19 @@ Add your screenshot here.
 ## GitHub Repository URL
 
 Paste your forked repository URL here:
-
+https://github.com/Kutiolajide07/Ultimate-Agentic-DevOps-with-Claude-Code
 `__________________________`
 
 ---
 
 # Completion Checklist
 
-- [ ] Claude Code CLI installed successfully
-- [ ] Claude Code authenticated successfully
-- [ ] Repository forked successfully
-- [ ] Repository cloned and opened in VS Code
-- [ ] All required screenshots added
-- [ ] GitHub repository URL provided
+- [ Done] Claude Code CLI installed successfully
+- [Done ] Claude Code authenticated successfully
+- [yes ] Repository forked successfully
+- [ Done] Repository cloned and opened in VS Code
+- [ Done] All required screenshots added
+- [ Done] GitHub repository URL provided
 
 ---
 
