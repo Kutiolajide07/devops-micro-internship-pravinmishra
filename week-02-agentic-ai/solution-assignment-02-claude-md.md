@@ -84,7 +84,8 @@ Add your screenshot here.
 
 Paste your forked repository URL here:
 
-`__________________________`
+`https://github.com/Kutiolajide07/devops-micro-internship-pravinmishra.git (fetch)
+ https://github.com/Kutiolajide07/devops-micro-internship-pravinmishra.git (push)`
 
 ---
 
