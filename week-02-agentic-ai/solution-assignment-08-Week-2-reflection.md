@@ -54,7 +54,7 @@ Add your screenshot here.
 
 Blog Link:
 
-`__________________________________________`
+`https://www.olajidekuti.com/blog/agentic-ai`
 
 ---
 
@@ -94,7 +94,7 @@ P.S. This post is a part of DevOps Micro Internship with Agentic AI Cohort-3 by 
 
 Add your screenshot here.
 
----
+https://www.linkedin.com/feed/
 
 ### Submission Field
 
@@ -108,7 +108,7 @@ Paste your LinkedIn post content here
 
 ### LinkedIn Post Link:
 
-`__________________________________________`
+`https://www.linkedin.com/feed/`
 
 ---
 
