@@ -92,7 +92,7 @@ Add your screenshot here.
 
 Paste your forked repository URL here:
 
-`__________________________`
+`https://github.com/Kutiolajide07/devops-micro-internship-pravinmishra/blob/main/week-02-agentic-ai/solution-assignment-06-hooks-permissions.md`
 
 ---
 
