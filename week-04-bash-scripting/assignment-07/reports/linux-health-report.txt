@@ -1,0 +1,29 @@
+========================================
+Linux Incident Triage Report
+========================================
+Full Name: Olajide Kuti
+Timestamp: 2026-07-23T14:14:42Z
+Hostname: DESKTOP-QIL4JLS
+Target Service: nginx
+Target URL: http://localhost
+
+[PASS] Nginx service is active
+[PASS] Port 80 is listening
+[PASS] Local HTTP check returned status 200
+[PASS] Root disk usage is 1%
+[PASS] Available memory is 6402 MB
+
+Recent Nginx service logs (last 5 lines):
+ Jul 23 13:45:01 DESKTOP-QIL4JLS systemd[1]: Stopping nginx.service - A high performance web server and a reverse proxy server...
+ Jul 23 13:45:01 DESKTOP-QIL4JLS systemd[1]: nginx.service: Deactivated successfully.
+ Jul 23 13:45:01 DESKTOP-QIL4JLS systemd[1]: Stopped nginx.service - A high performance web server and a reverse proxy server.
+ Jul 23 15:12:52 DESKTOP-QIL4JLS systemd[1]: Starting nginx.service - A high performance web server and a reverse proxy server...
+ Jul 23 15:12:52 DESKTOP-QIL4JLS systemd[1]: Started nginx.service - A high performance web server and a reverse proxy server.
+
+Summary:
+PASS: 5
+WARN: 0
+FAIL: 0
+Overall Status: HEALTHY
+Script Exit Code: 0
+Report File: /home/olajide/Projects/week-03-agentic-linux/reports/linux-health-report.txt
