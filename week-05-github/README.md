@@ -54,7 +54,7 @@ I created a dedicated feature branch to isolate my changes from the main branch 
 
 ## Task 4: LinkedIn Post
 
-https://www.linkedin.com/feed/update/urn:li:activity:7486171057427718146/
+https://www.linkedin.com/feed/update/urn:li:activity:7487945947029803009/
 https://www.olajidekuti.com/blog/ai-assisted-git-safety-net
 ---
 
