@@ -13,7 +13,7 @@ Complete all tasks below and update your [progress tracker](../README.md).
 
 **What I did:**
 
-<!-- Write 2-3 sentences describing what you configured on your profile -->
+I configured my GitHub profile by adding a professional profile picture, updating my bio, and ensuring my profile accurately reflects my interests in Cloud Security, DevOps, and Azure technologies. I also reviewed my repository visibility and profile settings to present a professional portfolio for future employers
 
 **Screenshot:**
 
@@ -27,12 +27,12 @@ Complete all tasks below and update your [progress tracker](../README.md).
 
 **Commands I used:**
 
-```bash
-# Paste the git commands you ran here
-git init
+git clone https://github.com/Kutiolajide07/devops-micro-internship-pravinmishra.git
+cd devops-micro-internship-pravinmishra
+git status
 git add .
-git commit -m "initial commit"
-```
+git commit -m "Initial repository setup"
+git push origin main
 
 **Screenshot:**
 
@@ -44,11 +44,7 @@ git commit -m "initial commit"
 
 **Task:** Create a branch, make a change, and open a Pull Request.
 
-**What I did:**
-
-<!-- Describe the branch you created and what change you made -->
-
-**PR Link:** <!-- Paste your PR URL here -->
+I created a dedicated feature branch to isolate my changes from the main branch and implemented the required assignment tasks. After testing the changes locally, I pushed the branch to GitHub and opened a Pull Request to review the work before merging. This workflow mirrors collaborative development practices used in professional software engineering and DevOps teams.
 
 **Screenshot:**
 
@@ -58,18 +54,16 @@ git commit -m "initial commit"
 
 ## Task 4: LinkedIn Post
 
-**Post:** <!-- Paste your LinkedIn post URL here -->
-
+https://www.linkedin.com/feed/update/urn:li:activity:7486171057427718146/
+https://www.olajidekuti.com/blog/ai-assisted-git-safety-net
 ---
 
 ## Key Learnings
 
-<!-- 3-5 bullet points on what you learned this week -->
-
-- 
-- 
-- 
-
----
+Developed a practical understanding of Git branching, commits, merges, and Pull Requests.
+Learned how feature branches improve collaboration and reduce the risk of introducing unstable code into the main branch.
+Applied GitHub workflows that are commonly used in professional DevOps and software engineering teams.
+Gained hands-on experience with AI-assisted development by integrating Git pre-commit hooks and Claude Code into the code review process.
+Reinforced the importance of human review and version control in maintaining secure and reliable software delivery.
 
 *Part of the [DevOps Micro Internship with Agentic AI](https://www.linkedin.com/in/pravin-mishra-aws-trainer/) by Pravin Mishra — Join: https://discord.pravinmishra.com/*
