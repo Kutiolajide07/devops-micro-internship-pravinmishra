@@ -131,11 +131,11 @@ This is not a course. It is an internship-style program — real deployments, re
 | Week | Topic | Status | Assignment | LinkedIn Post | Blog Post |
 |------|-------|--------|------------|---------------|-----------|
 | 00 | Internet & Networking Basics | ⬜ Not Started | ⏳ Pending | — | — |
-| 01 | Success Mindset | ⬜ Not Started | ⏳ Pending | — | — |
-| 02 | Agentic AI with Claude Code | ⬜ Not Started | ⏳ Pending | — | — |
-| 03 | Linux for DevOps | ⬜ Not Started | ⏳ Pending | — | — |
-| 04 | Bash Scripting | ⬜ Not Started | ⏳ Pending | — | — |
-| 05 | Git & GitHub | ⬜ Not Started | ⏳ Pending | — | — |
+| 01 | Success Mindset | ⬜ Not Started | ⏳ Pending | - | https://www.olajidekuti.com/vision |
+| 02 | Agentic AI with Claude Code | ⬜ Not Started | ⏳ Pending | https://www.linkedin.com/feed/update/urn:li:activity:7481474736372490240/ | https://www.olajidekuti.com/blog/agentic-ai |
+| 03 | Linux for DevOps | ⬜ Not Started | ⏳ Pending | https://www.linkedin.com/feed/update/urn:li:activity:7485929335917314048/ | https://www.olajidekuti.com/blog/aws-react-nginx |
+| 04 | Bash Scripting | ⬜ Not Started | ⏳ Pending | work in progress | — |
+| 05 | Git & GitHub | ⬜ Not Started | ⏳ Pending | https://www.olajidekuti.com/blog/ai-assisted-git-safety-net | https://www.olajidekuti.com/blog/aws-react-nginx |
 | 06 | DevOps Lifecycle & Agile | ⬜ Not Started | ⏳ Pending | — | — |
 | 07 | AWS Cloud | ⬜ Not Started | ⏳ Pending | — | — |
 | 08 | Azure Cloud | ⬜ Not Started | ⏳ Pending | — | — |
